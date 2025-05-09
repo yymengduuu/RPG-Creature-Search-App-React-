@@ -26,18 +26,6 @@ A responsive React application that lets you search for Pokémon creatures by na
 
 ---
 
-## 🧱 Project Structure
-rpg-creature-search/
-├── public/            # Static files (favicon, etc.)
-├── src/               # React components and styles
-│   ├── App.jsx
-│   ├── App.css
-│   └── main.jsx
-├── vite.config.js     # Vite config with base for GitHub Pages
-├── package.json       # Scripts and dependencies
-└── README.md
----
-
 ## 🚀 Getting Started Locally
 
 ```bash
